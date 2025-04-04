@@ -1,5 +1,4 @@
-# Machine_Learning
-Supervised &amp; Unsupervised ML. projects
+
 📂 Project Structure
 🔹 Supervised Learning
 Linear Regression
